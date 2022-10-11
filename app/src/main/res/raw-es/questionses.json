@@ -1,0 +1,42 @@
+[
+  {
+    "question" : "Las papas son 80% agua",
+    "answer": true
+  },
+  {
+    "question" : "Las zanahorias baby son zanahorias de tamaño normal que han sido ralladas",
+    "answer": true
+  },
+  {
+    "question" : "La palabra espagueti proviene de un tipo de huevo",
+    "answer": false
+  },
+  {
+    "question" : "La fruta más popular en Estados Unidos son las manzanas.",
+    "answer": false
+  },
+  {
+    "question" : "La compota de manzana fue el primer alimento consumido en el espacio",
+    "answer": true
+  },
+  {
+    "question" : "La miel nunca se echará a perder",
+    "answer": true
+  },
+  {
+    "question" : "Comer demasiada nuez moscada te hará alucinar",
+    "answer": false
+  },
+  {
+    "question" : "Los plátanos son bayas",
+    "answer": true
+  },
+  {
+    "question" : "Se necesita el mismo poder para morder una zanahoria que tu dedo",
+    "answer": false
+  },
+  {
+    "question" : "Los melones y la melaza son la misma fruta pero teñidos de diferentes colores",
+    "answer": false
+  }
+]

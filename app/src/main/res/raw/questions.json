@@ -1,0 +1,42 @@
+[
+  {
+    "question" : "Potatoes are 80% water",
+    "answer": true
+  },
+  {
+    "question" : "Baby carrots are normal sizes carrots that have been shaved down",
+    "answer": true
+  },
+  {
+    "question" : "The word spaghetti stemmed from a type of egg",
+    "answer": false
+  },
+  {
+    "question" : "The most popular fruit in America is apples",
+    "answer": false
+  },
+  {
+    "question" : "Apple sauce was the first food eaten in space",
+    "answer": true
+  },
+  {
+    "question" : "Honey will never go bad",
+    "answer": true
+  },
+  {
+    "question" : "Eating too much nutmeg will make you hallucinate",
+    "answer": false
+  },
+  {
+    "question" : "Bananas are berries",
+    "answer": true
+  },
+  {
+    "question" : "It takes the same power to bite off a carrot as your finger",
+    "answer": false
+  },
+  {
+    "question" : "Cantaloupes and honeydew are the same fruit but dyed to be different colors",
+    "answer": false
+  }
+]

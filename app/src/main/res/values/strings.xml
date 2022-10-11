@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">QuizApp</string>
+    <string name="app_name" translatable="false">Quizzie</string>
+    <string name="main_true">TRUE</string>
+    <string name="main_false">FALSE</string>
+    <string name="main_score">Score: </string>
 </resources>
